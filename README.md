@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá eu sou Artur Henrique
 
-<!--
-**ArturLT/ArturLT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Sou atualmente estudante da Unirios em Sistemas da Informação
+- Periodo: 8
+- Ocupação: Freelancer FullStack
+- Procuro novos projetos para melhorar
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/ArturLT">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ArturLT&show_icons=flase&theme=dracula&count_private=true"/><br>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturLT&layout=compact&langs_count=16&theme=dracula"/>  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
