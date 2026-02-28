@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Olá eu sou Artur Henrique<br><br>- Sou atualmente estudante da Unirios em Sistemas da Informação<br>- Periodo: 8<br>- Ocupação: Freelancer FullStack<br>- Procuro novos projetos para melhorar
+## Olá eu sou Artur Henrique<br><br>- Sou atualmente formando em Sistemas da Informação na UNIRIOS<br> <br>- Ocupação: Auxiliar Tecnino<br>- Procuro novos projetos para melhorar
 
 
 ## 🌐 Socials:
